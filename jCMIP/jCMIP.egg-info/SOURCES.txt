@@ -1,0 +1,17 @@
+.gitignore
+LICENSE
+README.md
+setup.cfg
+setup.py
+jCMIP/CMIPgenerate.py
+jCMIP/CMIPmeans.py
+jCMIP/CMIPobject.py
+jCMIP/CMIPread.py
+jCMIP/CMIPtransports.py
+jCMIP/__init__.py
+jCMIP.egg-info/PKG-INFO
+jCMIP.egg-info/SOURCES.txt
+jCMIP.egg-info/dependency_links.txt
+jCMIP.egg-info/not-zip-safe
+jCMIP.egg-info/requires.txt
+jCMIP.egg-info/top_level.txt
